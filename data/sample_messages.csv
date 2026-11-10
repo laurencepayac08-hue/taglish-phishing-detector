@@ -1,0 +1,64 @@
+text,label
+GCash: Naka-lock ang account mo dahil sa suspicious activity. I-verify agad sa http://gcash-verify.example/login para hindi ma-deactivate.,phishing
+"Congrats! Nanalo ka ng P50,000 sa Globe promo. I-claim dito: http://promo-claim.example/win bago mag-expire ngayong araw.",phishing
+BDO ALERT: May hindi awtorisadong login sa account mo. Mag-confirm ng OTP at PIN sa http://bdo-secure.example para ma-secure.,phishing
+Your Maya wallet will be suspended in 24 hours. Verify your identity now: http://maya-update.example,phishing
+URGENT: Ang parcel mo ay naipit sa customs. Magbayad ng P35 fee sa http://parcel-fee.example para ma-release.,phishing
+"Hiring! Work from home, kumita ng P1,500 kada araw. Mag-message sa Telegram para sa tasks. Walang experience needed.",phishing
+"Dear customer, your SIM will be blocked today. Register your SIM at http://sim-register.example to avoid deactivation.",phishing
+"Nanalo ka sa raffle! Ipadala ang iyong buong pangalan, address, at OTP para ma-claim ang prize.",phishing
+"SSS: May unclaimed benefit ka na P12,000. I-click ang link para makuha: http://benefit-claim.example",phishing
+Security alert: Someone tried to log in to your Facebook account. Confirm your password here: http://fb-security.example,phishing
+Overdue na ang utang mo. Magbayad agad o ipapaalam namin sa mga contacts mo. Click: http://pay-now.example,phishing
+"Pinadala ko ang load mo, pa-send ng 6-digit code na dumating sa phone mo para ma-confirm.",phishing
+Your electricity bill is overdue. Pay now to avoid disconnection: http://bill-pay.example,phishing
+Hindi ma-deliver ang package mo. I-update ang address mo dito http://redelivery.example at magbayad ng P25.,phishing
+"Investment opportunity! Mag-invest ng P1,000 at kumita ng P10,000 sa loob ng 3 days. Guaranteed! Reply YES.",phishing
+"Hi, ako si Ate Lyn sa HR. Na-select ka for online job. Send mo ang ID at bank details mo para sa payroll.",phishing
+Libreng 50GB data para sa iyo! I-claim ngayon: http://free-data.example Limited time lang.,phishing
+"Notice: Naka-detect kami ng pending refund na P3,499. Ilagay ang card number at CVV mo para ma-receive.",phishing
+Alert: Your Netflix payment failed. Update billing details within 12 hours: http://billing-help.example,phishing
+"Ma'am/Sir, kayo po ay napili para sa scholarship grant. Bayaran lang ang processing fee na P500 sa GCash.",phishing
+Congratulations! You are selected for a cash gift. Send your bank account number to claim.,phishing
+Ma-su-suspend ang account mo sa Shopee. Mag-login dito para ma-verify: http://shopee-verify.example,phishing
+URGENT: Nag-expire na ang password mo. I-reset sa http://reset-pass.example sa loob ng 1 oras.,phishing
+May violation ka na hindi pa bayad. Magbayad ngayon para maiwasan ang penalty: http://violation-pay.example,phishing
+Free iPhone giveaway! Mag-click at i-share para manalo: http://giveaway-now.example,phishing
+"Bank notice: unusual transaction of P25,000 detected. If this was not you, verify at http://bank-alert.example now.",phishing
+"Mag-send ka ng P200 para ma-unlock ang P20,000 mong loan approval. Processing fee lang.",phishing
+"May problema sa tax refund mo. Ibigay ang TIN, birthdate, at ATM PIN para ma-process.",phishing
+Your Google account will be deleted. Click to keep it: http://account-keep.example,phishing
+Crypto signal group: double your money in 24 hours. Send USDT to this wallet and we return 2x.,phishing
+"Kumain ka na ba? Pauwi na ako, may bibilhin ka ba sa labas?",legit
+"Reminder: may quiz tayo sa Programming bukas, 8 AM. Review chapters 3 at 4.",legit
+"Hi, ito si Mark. Na-save ko na yung number mo. Salamat sa notes kahapon!",legit
+"Meeting tayo mamaya sa library, 3 PM. Dalhin mo yung laptop.",legit
+Happy birthday! Sana masaya ang araw mo. Libre mo kami ha.,legit
+"Class suspended bukas dahil sa bagyo, sabi ng announcement ng school.",legit
+"Ma, nandito na ako sa terminal. Susunduin mo ba ako o magja-jeep na lang ako?",legit
+Pwede ba nating ilipat ang defense schedule sa Friday? Wala kasi ang adviser natin sa Thursday.,legit
+Salamat sa pag-send ng files. Na-receive ko na lahat.,legit
+Your order has been delivered. Thank you for shopping with us.,legit
+"GCash: You have received P300 from JUAN D. Your new balance is P1,250. Ref. No. 5012.",legit
+Your promo is now active and valid until Nov 20. Text INFO to check your status.,legit
+Your parcel will arrive tomorrow between 9 AM and 5 PM. Please prepare the exact payment.,legit
+"Tara, kain tayo mamaya after class. Libre ko kape.",legit
+"Pakisend ng group project mo sa GitHub link natin bago mag-midnight, pre.",legit
+"Nagpa-reset ako ng wifi router. Kung may problema pa rin sa net, sabihin mo.",legit
+Anong oras ang uwi mo? Magluluto ako ng sinigang.,legit
+"Hello po, confirm ko lang po ang appointment ko bukas ng 10 AM. Salamat po.",legit
+Naiwan mo yung charger mo sa bahay. Dadalhin ko bukas sa school.,legit
+Reminder: Enrollment ends on Friday. Visit the registrar's office with your requirements.,legit
+Natapos ko na yung Arduino project natin. Test natin bukas sa lab.,legit
+Salamat po sa pagbili! Ang order ninyo ay ipapadala bukas.,legit
+"Good evening po, may assignment po ba tayo sa Networking?",legit
+"Lola, bukas na kami uuwi. Dala namin yung pasalubong.",legit
+Update: nag-merge na ako ng changes sa main branch. Paki-pull na lang.,legit
+Binayaran ko na yung tuition sa cashier kanina. Nasa resibo ang reference number.,legit
+Magandang umaga! Open pa rin ba ang slot para sa workshop sa Sabado?,legit
+Naka-schedule ang power interruption bukas 9 AM to 3 PM sa barangay natin.,legit
+Congrats sa defense mo! Proud ako sa'yo.,legit
+"Hindi ako makakapasok ngayon, may emergency sa bahay. Pakisabi sa prof natin.",legit
+"Pa-load naman, pre. Babayaran kita sa Friday.",legit
+Your appointment is confirmed for Monday at 2 PM. See you then.,legit
+"Check mo yung email ni ma'am, nandun na yung schedule ng exams.",legit

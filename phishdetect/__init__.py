@@ -1,0 +1,1 @@
+"""Taglish phishing message detector."""
